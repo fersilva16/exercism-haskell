@@ -4,8 +4,8 @@ My solutions for [Exercism's Haskell Track][exercism-track-url].
 
 <!-- Links -->
 
-[license-shield]: https://img.shields.io/github/license/fersilva16/aoc2021?style=flat-square
-[license-url]: https://github.com/fersilva16/aoc2021/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/fersilva16/exercism-haskell?style=flat-square
+[license-url]: https://github.com/fersilva16/exercism-haskell/blob/master/LICENSE
 [twitter-shield]: https://img.shields.io/badge/-fersilvaa16-black.svg?style=flat-square&logo=twitter&logoColor=white&colorB=49a2f2
 [twitter-url]: https://twitter.com/fersilvaa16
 [exercism-shield]: https://img.shields.io/badge/-fersilva16-black.svg?style=flat-square&logo=exercism&logoColor=white&colorB=009cab
