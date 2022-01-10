@@ -9,6 +9,10 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- hspec
+
+library:
+  source-dirs: src
 
 executables:
   exercism-haskell-exe:
@@ -27,3 +31,5 @@ tests:
     - -threaded
     - -rtsopts
     - -with-rtsopts=-N
+    dependencies:
+    - exercism-haskell
