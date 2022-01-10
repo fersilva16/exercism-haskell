@@ -23,6 +23,7 @@ source-repository head
 library
   exposed-modules:
       HelloWorld
+      LuciansLusciousLasagna
       Main
   other-modules:
       Paths_exercism_haskell
@@ -37,6 +38,7 @@ executable exercism-haskell-exe
   main-is: Main.hs
   other-modules:
       HelloWorld
+      LuciansLusciousLasagna
       Paths_exercism_haskell
   hs-source-dirs:
       src
@@ -51,6 +53,7 @@ test-suite exercism-haskell-test
   main-is: Spec.hs
   other-modules:
       HelloWorldSpec
+      LuciansLusciousLasagnaSpec
       Paths_exercism_haskell
   hs-source-dirs:
       test
